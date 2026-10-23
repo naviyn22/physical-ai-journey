@@ -1,2 +1,3 @@
 # physical-ai-journey
-12-week journey into physical AI: math, ML, ROS 2, simulation and humanoid RL
+A 12-week learning log toward humanoid locomotion with reinforcement learning.
+Weekly outputs live in folders: week01, week02, and so on.
